@@ -1,1 +1,3 @@
-# AI_Team_Project
+# AI_Team_Project(AI 프로젝트 입문)
+
+## 미드바르 뿌리이미지 인식 챌린지로 CNN모델을 활용한 뿌리 성장 시간을 예측하는 모델 구현
